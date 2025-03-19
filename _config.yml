@@ -1,14 +1,12 @@
-title: Your awesome title
+title: 一个站点
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: myvyang
+  email: myvyang@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  没有文字.
 
 # Build settings
 
@@ -40,7 +38,7 @@ minima:
   # the `path` property (as represented via Liquid) of the pages in the order they should
   # be rendered.
   nav_pages:
-    - about.md
+    - index.md
 
   # Set to `true` to show excerpts on the homepage.
   #show_excerpts: false
