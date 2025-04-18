@@ -3,7 +3,7 @@ title: "使用 Burrows-Delta 方法检测文章作者"
 date: 2025-04-18
 ---
 
-学习了下 https://github.com/antirez/hnstyle/ 这个任务用来检测Hacker News 上虚假账户的方案.
+学习了下 [https://github.com/antirez/hnstyle/](https://github.com/antirez/hnstyle/) 这个任务用来检测Hacker News 上虚假账户的方案.
 
 ## 基本原理
 
