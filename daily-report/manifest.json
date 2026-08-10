@@ -1,0 +1,35 @@
+[
+  {
+    "channel": "general",
+    "channel_title": "日常观察",
+    "type": "weekly",
+    "type_label": "周报",
+    "report_date": "2026-08-10",
+    "coverage_start": "2026-08-03",
+    "coverage_end": "2026-08-09",
+    "generated_at": "2026-08-10T05:30:00+08:00",
+    "public_path": "/daily-report/general/weekly/2026-08-10/"
+  },
+  {
+    "channel": "stocks",
+    "channel_title": "股票观察",
+    "type": "weekly",
+    "type_label": "周报",
+    "report_date": "2026-08-10",
+    "coverage_start": "2026-08-03",
+    "coverage_end": "2026-08-09",
+    "generated_at": "2026-08-10T05:30:00+08:00",
+    "public_path": "/daily-report/stocks/weekly/2026-08-10/"
+  },
+  {
+    "channel": "games",
+    "channel_title": "游戏观察",
+    "type": "weekly",
+    "type_label": "周报",
+    "report_date": "2026-08-10",
+    "coverage_start": "2026-08-03",
+    "coverage_end": "2026-08-09",
+    "generated_at": "2026-08-10T05:30:00+08:00",
+    "public_path": "/daily-report/games/weekly/2026-08-10/"
+  }
+]
