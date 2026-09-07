@@ -7,6 +7,15 @@ permalink: /2026/09/07/gnfs-step-by-step.html
 description: "从余数、平方差和最大公约数出发，通过可手算的例子解释光滑数、指数奇偶性、GNFS 与 GPU 并行计算。"
 ---
 
+<style>
+.post-content mjx-container[display="true"] {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-block: 0.2em;
+}
+</style>
+
 本文面向会做乘除法、理解平方，但不熟悉同余、光滑数和线性代数的读者。前八步解释“为什么能用光滑数拼出因数”，后面再介绍筛法、GNFS 和 GPU 如何提高效率。
 
 我们要解决的问题是：给定一个合数 $$N$$，找到两个大于 1 的整数，使它们的乘积等于 $$N$$。RSA 中通常有 $$N=pq$$，其中 $$p,q$$ 是两个不同的大质数。真正需要分解的是合数 $$N$$。
